@@ -77,4 +77,3 @@ const SocialLinks = () => {
 };
 
 export default SocialLinks
-// LinkedIn Icon 54:42
